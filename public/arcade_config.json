@@ -1,0 +1,15 @@
+{
+
+"port":"22188/arcade",
+
+"host":"trxgames.online",
+"prefix":"https://",
+
+"host_ws":"trxgames.online",
+"prefix_ws":"wss://",
+
+"ssl":true,
+
+"timezone":"Europe/Berlin"
+
+}

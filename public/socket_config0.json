@@ -1,0 +1,13 @@
+{
+
+"port":"22188/ka_fish",
+
+"host":"trxgames.online",
+"prefix":"https://",
+
+"host_ws":"trxgames.online",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}

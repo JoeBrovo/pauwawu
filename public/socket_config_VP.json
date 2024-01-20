@@ -1,0 +1,13 @@
+{
+
+"port":"22154/vp_fish",
+
+"host":"trxgames.online",
+"prefix":"https://",
+
+"host_ws":"trxgames.online",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}
